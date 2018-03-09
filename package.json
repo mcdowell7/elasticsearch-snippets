@@ -16,6 +16,10 @@
                 "language": "json",
                 "path": "./snippets/snippets.json"
             }
+            {
+                "language": "javascript",
+                "path": "./snippets/snippets.json"
+            }
         ]
     }
 }
